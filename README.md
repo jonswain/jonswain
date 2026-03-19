@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonswain&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Jon's GitHub stats](./profile/stats.svg)
